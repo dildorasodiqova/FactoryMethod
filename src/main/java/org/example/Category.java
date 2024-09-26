@@ -1,2 +1,5 @@
-package org.example;public class Category {
+package org.example;
+
+public abstract class Category {
+    public abstract void printDetails();
 }
